@@ -1,0 +1,1 @@
+C:\Users\Thomas Yap\Documents\CUDA Examples\testaho\testaho\bin\Debug\testaho.exe.config
